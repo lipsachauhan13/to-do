@@ -1,0 +1,41 @@
+{  
+    "name": "lipsa",
+    "email": "lipsa@gmail.com",
+    "password": "lipsa123"
+}
+
+//NOTES
+
+   {
+        "title": "My New Note",
+        "content": "This is the content of my new note."
+    }
+
+    {
+        "title": "Schedule Dentist Appointment",
+        "content": "Call Dr. Smith's office tomorrow morning, ideally between 9-10 AM. Need to get a check-up and cleaning done before the end of the month."
+    }
+
+       {
+        "title": "Buy Groceries",
+        "content": "Need milk, bread, eggs, and bananas. Check the pantry for any other essentials. Buy organic where possible."
+    }
+       {
+        "title": "Prepare Presentation",
+        "content": "Create slides for the quarterly review. Focus on Q3 performance data and Q4 projections. Present to the team on Friday."
+    }
+
+//TASK
+
+   {
+        "title": "Schedule meeting",
+        "description": "Arrange a call with the marketing team next week",
+        "dueDate": "October 15, 2025",
+        "category": "Marketing"
+    }
+       {
+        "title": "Prepare Project Report",
+        "description": "Gather data from Q3 sales and finalize the quarterly report",
+        "dueDate": "2025-09-30",
+        "category": "Work" 
+    }
